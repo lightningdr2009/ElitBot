@@ -1,1 +1,1 @@
-"# ElitBot" 
+Alright, this is the code for the ElitBot. I have not included the bot's token as I do not want people to mess around with the bot. All you have to do to apply this code is to make a new file called "token.txt" and paste the bot's token in there.
